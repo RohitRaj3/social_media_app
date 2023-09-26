@@ -36,14 +36,14 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/social-media-dashboard.git
-cd social-media-dashboard
+git clone (https://github.com/RohitRaj3/social_media_app.git)
+cd social_media_app
 ```
 
 2. Set up the backend:
 
 ```bash
-cd social-media-dashboard-backend
+cd social_media_app
 npm install
 ```
 
